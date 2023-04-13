@@ -16,8 +16,6 @@ pip install virtualenv
 ```sh
 python -m venv virtualenv
 ```
-```sh
-```
 Install Selenium 
 ```sh
 pip install selenium
